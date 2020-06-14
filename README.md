@@ -9,7 +9,7 @@ At present, the systems in place for first responders are inefficient and can be
 
 # c) The architecture of your proposed solution* 
 
-# d) A hyperlink to your detailed solution: {MahirOberai-StrawberryShortcakes-CCM_SCDFXIBM/detailed_solution.md}
+# d) A hyperlink to your detailed solution:[More detail is available here](detailed_solution.md)
 
 # f) Getting started*
     To run Area Control Centre (ACC) react website, run the following lines of code, firstly install dependencies:
