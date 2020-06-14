@@ -52,17 +52,10 @@ const LandingPage = () => {
                 </div>
               </div>
             </Tab>
-            <Tab {...props.tab} label="Don't click me">
+            <Tab {...props.tab} label="Other information">
               <div className="bx--grid bx--grid--no-gutter bx--grid--full-width">
                 <div className="bx--row landing-page__tab-content">
                   <div className="bx--col-lg-16">
-                    <Breadcrumb noTrailingSlash>
-                      <BreadcrumbItem>
-                        <a href="https://www.youtube.com/watch?v=xSZBAYXipUg">
-                          Don't click pls
-                        </a>
-                      </BreadcrumbItem>
-                    </Breadcrumb>
                   </div>
                 </div>
               </div>
