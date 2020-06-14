@@ -1,5 +1,4 @@
-To run Area Control Centre (ACC) react website, run the following lines of code:
-Install dependencies:
+To run Area Control Centre (ACC) react website, run the following lines of code, firstly install dependencies:
 
     yarn
     yarn add carbon-components@10.3.0 carbon-components-react@7.3.0 @carbon/icons-react@10.3.0 carbon-icons@7.0.7
