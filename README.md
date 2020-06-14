@@ -1,7 +1,7 @@
 # Team: Strawberry Shortcake
 # Members: Jun Han Huang, Sumer Singh Sareen, Mahir Oberai, Jaiveer Khanna 
 
-## A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
+## A short description of the problem we are tackling, how technology can help, as well as the idea our team is proposing:
 
 At present, the systems in place for first responders are inefficient and can benefit from digitization and automation. Our solution would help to automate communication of location and first responder health data in order to improve responder safety and efficiency.
 
@@ -26,7 +26,7 @@ Launch development server on your localhost:3000:
     
     yarn start
 
-## What your team used to build your solution* (e.g. IBM Cloudant, IBM Cloud Functions, etc...) 
+## What our team used to build our solution* (e.g. IBM Cloudant, IBM Cloud Functions, etc...) 
     -IBM Watson Studio, Dashboards and Notebooks assets
     
 
